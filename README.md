@@ -31,4 +31,6 @@ You just got your first Pull Request (PR) merged!
 
 - Yash Pandey – The GitHub guy. :sunglasses:
 
+- Shubham Kushwaha
+
 - <Add your name above this line in the same pattern!>
