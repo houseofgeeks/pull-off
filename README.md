@@ -33,7 +33,7 @@ You just got your first Pull Request (PR) merged!
 
 - Vishal Pratap Singh - @chaos_
 - Shubham Kushwaha - @ericliclair
-
+- Sandesh Dudhabaware - Github enthusiasts
 - Ankit Raj - GitHub Enthusiasts.
 
 - <Add your name above this line in the same pattern!>
