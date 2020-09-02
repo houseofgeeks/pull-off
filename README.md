@@ -17,7 +17,7 @@ for you! Just click it and wait until..
 boss! Go ahead and find your way to edit this document to add your
 name below the instructions.
 
-1. Commit your changes and get back to the [official repository](https://github.com/houseofgeeks/GitHub-Pull-Off).
+1. Commit your changes and get back to the [official repository](https://github.com/houseofgeeks/pull-off).
 
 1. You’ll see an option for creating a `Pull request`. This’ll be a
 request to the core team of the repository to take in the changes
