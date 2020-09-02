@@ -1,4 +1,4 @@
-# House of Geeks Push-off
+# House of Geeks Pull-off
 
 Welcome on board to the exciting journey of git! From a small project of
 an individual to an entire operating system (kernel) which is powering
