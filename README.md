@@ -36,4 +36,6 @@ You just got your first Pull Request (PR) merged!
 
 - Ankit Raj - GitHub Enthusiasts.
 
+- Deepti - @deepti23-web
+
 - <Add your name above this line in the same pattern!>
