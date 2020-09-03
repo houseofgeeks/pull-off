@@ -30,6 +30,7 @@ You just got your first Pull Request (PR) merged!
 ## List of Coolest GitHub Enthusiasts
 
 - Yash Pandey – The GitHub guy. :sunglasses:
+- Soumyabrata Bairagi - Another GitHub guy!. :smile:
 - Vishal Pratap Singh - @chaos_
 - Shubham Kushwaha - @ericliclair
 - Sandesh Dudhabaware - Github enthusiasts
