@@ -39,4 +39,6 @@ You just got your first Pull Request (PR) merged!
 - Manish Kumar Paswan - @manishkumarpaswan
 - Sanjeev Singh – @NobodySS07. :clown_face:
 - Rishav Mazumdar - @RishavMz
+- Sahil Gupta - @Sahil-Gupta582
+- shaury srivastav - @shaurysrivastav27 
 - <Add your name above this line in the same pattern!>
