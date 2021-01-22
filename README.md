@@ -45,5 +45,6 @@ You just got your first Pull Request (PR) merged!
 - Deepti - @deepti23-web
 - Aman Kumar - @am-A-man
 - Ashish Manoj Chourasia - @sleepysleep
+-Rohit Rawat - @rohit141999
 
 - <Add your name above this line in the same pattern!>
