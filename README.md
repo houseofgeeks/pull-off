@@ -48,6 +48,7 @@ You just got your first Pull Request (PR) merged!
 - Rohit Rawat - @rohit141999
 - Dhawal - @dhawalyash00
 - Srijan Srivastava @SrijanSriv
+- Anshaj Khare @AK-codingmaniac
 - Saheb Kumar @sahebcse
 - Prakhar Srivastav - @misterprakhar
 - <Add your name above this line in the same pattern!>
