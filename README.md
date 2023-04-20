@@ -54,4 +54,5 @@ You just got your first Pull Request (PR) merged!
 - Saheb Kumar @sahebcse
 - Prakhar Srivastav - @misterprakhar
 - Abhinav Prakash Rai - @RaiAbhinavPrakash
+- Vansh Gandhi - @vansh2552
 - <Add your name above this line in the same pattern!>
